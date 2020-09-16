@@ -1,5 +1,5 @@
 ### Hi, I'm 
-<span style="align=center;">![Name Text](https://github.com/mattkhcronin/mattkhcronin/raw/master/images/HeavyMetalName.png)</span>
+![Name Text](https://github.com/mattkhcronin/mattkhcronin/raw/master/images/HeavyMetalName.png)
 
 <!--
 **mattkhcronin/mattkhcronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
