@@ -1,5 +1,5 @@
-### Hi there 👋
-I just made some changes
+### Hi, I'm 
+![GitHub Logo](/images/HeavyMetalName.png)
 
 <!--
 **mattkhcronin/mattkhcronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
