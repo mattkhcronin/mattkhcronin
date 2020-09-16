@@ -2,6 +2,7 @@
 ![Name Text](https://github.com/mattkhcronin/mattkhcronin/raw/master/images/HeavyMetalName.png)
 
 <!--
+image color: #273B1C
 **mattkhcronin/mattkhcronin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
